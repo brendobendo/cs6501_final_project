@@ -16,7 +16,7 @@ Logging food and calorie intake has been shown to facilitate weight management. 
 
 ## Useful Materials
 This project aims to promote my understanding of vision computation and object recognition. There are extensive research focused on object detection:
-1. [**r-cnn**](https://people.eecs.berkeley.edu/~rbg/papers/r-cnn-cvpr.pdf)
+1. [**r-cnn**](https://arxiv.org/pdf/1504.08083.pdf)
 2. [**fast-rcnn**](https://arxiv.org/pdf/1504.08083.pdf)
 3. [**faster-rcnn**](https://arxiv.org/pdf/1506.01497.pdf)
 4. [**YOLO**](https://arxiv.org/pdf/1506.02640.pdf)
