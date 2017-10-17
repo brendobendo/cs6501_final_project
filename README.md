@@ -11,8 +11,8 @@ Logging food and calorie intake has been shown to facilitate weight management. 
 4. matplotlib
 
 ## hardware requirement
-- The usage of GPU is highly recommended
-- Cloud computing services are available. For instance, AWS.
+- The usage of GPU is highly recommended.
+- Cloud computing services are available. For instance, [AWS](https://aws.amazon.com/free/?sc_channel=PS&sc_campaign=acquisition_US&sc_publisher=google&sc_medium=cloud_computing_hv_b&sc_content=aws_core_e_control_q32016&sc_detail=aws&sc_category=cloud_computing&sc_segment=188908133959&sc_matchtype=e&sc_country=US&s_kwcid=AL!4422!3!188908133959!e!!g!!aws&ef_id=V4HLzAAAAcKEocf1:20171017234041:s).
 
 ## Useful Materials
 This project aims to promote my understanding of vision computation and object recognition. There are extensive research focused on object detection:
@@ -32,6 +32,9 @@ A number of faster-rcnn impletation is available online, including:
 
 ## Plan
 ### 1. Data Preprocessing
+Merge [food 101 dataset](https://www.kaggle.com/kmader/food41/data) with [ready_chinese_food dataset](http://vireo.cs.cityu.edu.hk/VireoFood172/).
+### 2. Training pre-trained VGG
+more details needed
 
 
 
