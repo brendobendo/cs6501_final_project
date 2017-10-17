@@ -31,9 +31,9 @@ A number of faster-rcnn impletation is available online, including:
 - [Python chainer version faster-rcnn](https://github.com/chainer/chainercv)
 
 ## Plan
-### [x]1. Data Preprocessing
+### 1. [x] Data Preprocessing
 Merge [food 101 dataset](https://www.kaggle.com/kmader/food41/data) with [ready_chinese_food dataset](http://vireo.cs.cityu.edu.hk/VireoFood172/).
-### [x]2. Training pre-trained VGG
+### 2. [x] Training pre-trained VGG
 more details needed
 
 
