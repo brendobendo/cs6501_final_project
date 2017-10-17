@@ -11,4 +11,10 @@ Logging food and calorie intake has been shown to facilitate weight management. 
 4. matplotlib
 
 ## Useful Materials
+This project aims to promote my understanding of vision computation and object recognition. There are extensive research focused on object detection:
+1. [**r-cnn**](https://people.eecs.berkeley.edu/~rbg/papers/r-cnn-cvpr.pdf)
+2. [**fast-rcnn**](https://arxiv.org/pdf/1504.08083.pdf)
+3. [**faster-rcnn**](https://arxiv.org/pdf/1506.01497.pdf)
+4. [**YOLO**](https://arxiv.org/pdf/1506.02640.pdf)
 
+For the sake of computational efficiency and time limitation, we concentrate on using Faster-rcnn to perform object detection. And supplement materials helping understand region-cnn is available [here](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/object_localization_and_detection.html).
