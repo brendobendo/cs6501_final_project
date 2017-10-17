@@ -10,6 +10,10 @@ Logging food and calorie intake has been shown to facilitate weight management. 
 3. PIL
 4. matplotlib
 
+## hardware requirement
+- The usage of GPU is highly recommended
+- Cloud computing services are available. For instance, AWS.
+
 ## Useful Materials
 This project aims to promote my understanding of vision computation and object recognition. There are extensive research focused on object detection:
 1. [**r-cnn**](https://people.eecs.berkeley.edu/~rbg/papers/r-cnn-cvpr.pdf)
@@ -18,3 +22,13 @@ This project aims to promote my understanding of vision computation and object r
 4. [**YOLO**](https://arxiv.org/pdf/1506.02640.pdf)
 
 For the sake of computational efficiency and time limitation, we concentrate on using Faster-rcnn to perform object detection. And supplement materials helping understand region-cnn is available [here](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/object_localization_and_detection.html).
+
+## Impletation of Faster-rcnn
+A number of faster-rcnn impletation is available online, including:
+- [The matlab code of original paper](https://github.com/ShaoqingRen/faster_rcnn).
+- [Pycaffee version faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn)
+- [Pytorch version faster-rcnn](https://github.com/ruotianluo/pytorch-faster-rcnn)
+- [Python chainer version faster-rcnn](https://github.com/chainer/chainercv)
+
+## Plan
+
