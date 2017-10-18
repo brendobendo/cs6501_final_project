@@ -33,7 +33,7 @@ A number of faster-rcnn impletation is available online, including:
 
 ## Plan
 - [ ] **Data Preprocessing**:
-Merge [food 101 dataset](https://www.kaggle.com/kmader/food41/data) with [ready_chinese_food dataset](http://vireo.cs.cityu.edu.hk/VireoFood172/).
+Merge [food 101 dataset](https://www.kaggle.com/kmader/food41/data) with [Vireo-Food_172 dataset](http://vireo.cs.cityu.edu.hk/VireoFood172/).
 - [ ] **Training pre-trained VGG**:
 more details needed
 
