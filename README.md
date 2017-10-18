@@ -9,6 +9,7 @@ Logging food and calorie intake has been shown to facilitate weight management. 
 2. Python 2.7
 3. PIL
 4. matplotlib
+5. [tensorboard-pytorch](https://github.com/lanpa/tensorboard-pytorch)
 
 ## hardware requirement
 - The usage of GPU is highly recommended.
