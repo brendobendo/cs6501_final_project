@@ -15,11 +15,12 @@ Logging food and calorie intake has been shown to facilitate weight management. 
 - Cloud computing services are available. For instance, [AWS](https://aws.amazon.com/free/?sc_channel=PS&sc_campaign=acquisition_US&sc_publisher=google&sc_medium=cloud_computing_hv_b&sc_content=aws_core_e_control_q32016&sc_detail=aws&sc_category=cloud_computing&sc_segment=188908133959&sc_matchtype=e&sc_country=US&s_kwcid=AL!4422!3!188908133959!e!!g!!aws&ef_id=V4HLzAAAAcKEocf1:20171017234041:s).
 
 ## Useful Materials
-This project aims to promote my understanding of vision computation and object recognition. There are extensive research focused on object detection:
+This project aims to promote my understanding of vision computation and object recognition. There are extensive research focused on object detection, here is a snapshot:
 1. [**r-cnn**](https://arxiv.org/pdf/1504.08083.pdf)
 2. [**fast-rcnn**](https://arxiv.org/pdf/1504.08083.pdf)
 3. [**faster-rcnn**](https://arxiv.org/pdf/1506.01497.pdf)
 4. [**YOLO**](https://arxiv.org/pdf/1506.02640.pdf)
+5. [**Visualizing and Understanding Convolutional Networks**](https://arxiv.org/pdf/1311.2901.pdf)
 
 For the sake of computational efficiency and time limitation, we concentrate on using Faster-rcnn to perform object detection. And supplement materials helping understand region-cnn is available [here](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/object_localization_and_detection.html).
 
