@@ -22,15 +22,17 @@ This project aims to promote my understanding of vision computation and object r
 3. [**faster-rcnn**](https://arxiv.org/pdf/1506.01497.pdf)
 4. [**YOLO**](https://arxiv.org/pdf/1506.02640.pdf)
 5. [**Visualizing and Understanding Convolutional Networks**](https://arxiv.org/pdf/1311.2901.pdf)
+6. [**Mask-rcnn**](https://arxiv.org/pdf/1703.06870.pdf)
 
 For the sake of computational efficiency and time limitation, we concentrate on using Faster-rcnn to perform object detection. And supplement materials helping understand region-cnn is available [here](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/object_localization_and_detection.html).
 
-## Impletation of Faster-rcnn
+## Impletation of Faster-rcnn and other methods
 A number of faster-rcnn impletation is available online, including:
 - [The matlab code of original paper](https://github.com/ShaoqingRen/faster_rcnn).
 - [Pycaffee version faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn)
 - [Pytorch version faster-rcnn](https://github.com/ruotianluo/pytorch-faster-rcnn)
 - [Python chainer version faster-rcnn](https://github.com/chainer/chainercv)
+- [Pytorch version Mask R-CNN](https://github.com/felixgwu/mask_rcnn_pytorch)
 
 ## Plan
 - [x] **Data Preprocessing**:
