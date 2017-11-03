@@ -33,6 +33,7 @@ A number of faster-rcnn impletation is available online, including:
 - [Pytorch version faster-rcnn](https://github.com/ruotianluo/pytorch-faster-rcnn)
 - [Python chainer version faster-rcnn](https://github.com/chainer/chainercv)
 - [Pytorch version Mask R-CNN](https://github.com/felixgwu/mask_rcnn_pytorch)
+- [Pytorch tutorial](https://github.com/ritchieng/the-incredible-pytorch)
 
 ## Plan
 - [x] **Data Preprocessing**:
