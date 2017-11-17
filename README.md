@@ -40,14 +40,14 @@ A number of faster-rcnn impletation is available online, including:
 cd ./tools
 python trainvgg16.py --pretrained --gpu --checkPoint <file name>
 ```
-And model parameters will be saved in the same file
+And model parameters will be saved in the same folder
 
 
 ## Visualize net
 We use tensorboardX to visualize our model.
 ```
 cd ./tools
-python visualize vgg16.py
+python visualize vgg16.py --model_dir <folder you saved your model>
 tensorboard --logdir runs
 ```
 or you can do:
