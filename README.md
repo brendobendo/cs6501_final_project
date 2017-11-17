@@ -55,6 +55,11 @@ or you can do:
 cd ./data/saved_model
 tensorboard --logdir runs
 ```
+## Snapshot of vgg16 on validation data
+```
+cd ./tools
+python vggSnippet.py --model_fir <folder you saved your model> --valData <root of your validation data>
+```
 ## Plan
 - [x] **Data Preprocessing**:
 Merge [food 101 dataset](https://www.kaggle.com/kmader/food41/data) with [Vireo-Food_172 dataset](http://vireo.cs.cityu.edu.hk/VireoFood172/).
