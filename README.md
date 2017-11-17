@@ -35,6 +35,18 @@ A number of faster-rcnn impletation is available online, including:
 - [Pytorch version Mask R-CNN](https://github.com/felixgwu/mask_rcnn_pytorch)
 - [Pytorch tutorial](https://github.com/ritchieng/the-incredible-pytorch)
 
+## Visualize net
+We use tensorboardX to visualize our model.
+```
+cd ./tools
+python visualize vgg16.py
+tensorboard --logdir runs
+```
+or you can do:
+```
+cd ./data/saved_model
+tensorboard --logdir runs
+```
 ## Plan
 - [x] **Data Preprocessing**:
 Merge [food 101 dataset](https://www.kaggle.com/kmader/food41/data) with [Vireo-Food_172 dataset](http://vireo.cs.cityu.edu.hk/VireoFood172/).
