@@ -35,6 +35,14 @@ A number of faster-rcnn impletation is available online, including:
 - [Pytorch version Mask R-CNN](https://github.com/felixgwu/mask_rcnn_pytorch)
 - [Pytorch tutorial](https://github.com/ritchieng/the-incredible-pytorch)
 
+## Pre-train vgg16 before object dection
+```
+cd ./tools
+python trainvgg16.py --pretrained --gpu --checkPoint <file name>
+```
+And model parameters will be saved in the same file
+
+
 ## Visualize net
 We use tensorboardX to visualize our model.
 ```
