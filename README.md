@@ -67,7 +67,10 @@ python vggSnippet.py --model_fir <folder you saved your model> --valData <root o
 Merge [food 101 dataset](https://www.kaggle.com/kmader/food41/data) with [Vireo-Food_172 dataset](http://vireo.cs.cityu.edu.hk/VireoFood172/).
 - [x] **Training pre-trained VGG**
 - [x] **Pre-process images and label bounding boxes**
-- [ ] **Run Faster-rcnn on train dataset**
+- [x] **Run Faster-rcnn on train dataset**
+- [x] **Run detector on AFDD 10**
+- [ ] **try new loss functions**
+- [ ] **expand AFDD**
 
 
 
