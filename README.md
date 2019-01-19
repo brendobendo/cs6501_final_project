@@ -8,14 +8,13 @@
  To test this hypothesis, we first trained a deep convolutional network for large-scale image recognition (VGG) to classify over 221 different types of foods. We achieved over 75\% MAP, demonstrating that food classification is highly effective with state of the art CNN architectures. Then, as a proof of concept, we trained a faster-rcnn type neural net on a 10-class food data-set. The model then performs a calorie lookup for its top class predictions and sums these  counts to give a final calorie estimation. Our model achieved over 72\%  MAP for object detection and the calorie predictions were reasonably close to our test cases where total calorie counts were known. Our contributions to the field are twofold. First, we have created the first publicly available food-detection dataset that is adequately sized for deep learning. Second, we will show in future work that is is possible to predict calories by regressing on image features. For a more information about our results and methodology, please see the [project report](https://github.com/brendobendo/cs6501_final_project/blob/master/CalorieCounterFinalReport.pdf).
  
 
-## Software Requirement:
-We wrote all our code in Python 2.7. The code depends on the following libraries: 
+## Software Dependencies:
+We wrote all our code in Python 2.7 and used the following libraries: 
 1. Pytorch
-2. Python 2.7
-3. PIL
-4. matplotlib
-5. [tensorboard-pytorch](https://github.com/lanpa/tensorboard-pytorch)
-6. tensorflow
+2. PIL
+3. matplotlib
+4. [tensorboard-pytorch](https://github.com/lanpa/tensorboard-pytorch)
+5. tensorflow
 
 ## Useful Materials
 This project aims to promote understanding of deep learning for computer vision and object recognition. For those interested in learning about the theory behind these networks, here are some great papers and resources to get started. 
