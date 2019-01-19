@@ -3,7 +3,7 @@
 ## Problem   Description/Motivation
 
 Logging food and calorie intake has been shown to facilitate weight management. Many smartphone apps allow the user to track calories by manually specifying the food types and portion sizes eaten at each meal, which is significantly time-consuming and cumbersome. We wanted to build a system that is able to estimate calorie counts from an image alone. The idea is as follows Given an image of a meal, the system would tell you which foods are in the image and estimate their calorie counts. 
-![The idea in a nutshell](https://raw.githubusercontent.com/brendobendo/cs6501_final_project/intro_pic.png)
+![The idea in a nutshell](https://github.com/brendobendo/cs6501_final_project/blob/master/intro_pic.jpg)
 
 This system possesses numerous advantages to manual calorie tracking. First, it is far more natural; between writing yelp reviews and snapchat, photograhing meals has become all too common for millennials and young adults. Second, it will drastically reduce the required time and burden of calore-tracking. It is our hope that our system will promote users to be more conscious of their diets and ultimately become healthier eater.
 
